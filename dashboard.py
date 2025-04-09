@@ -11,6 +11,9 @@ import glob
 from data_loader import DataLoader
 from stock_regression import StockRegressor
 
+#dsfdsf
+#sdffs
+
 # 페이지 설정
 st.set_page_config(
     page_title="주식 가격 예측 대시보드",
